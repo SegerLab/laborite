@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SegerLab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - team.qmd
+      - publications.qmd
+      - prospect_students.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

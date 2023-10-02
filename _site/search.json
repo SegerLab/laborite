@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the Seger Lab, directed by Dr. Carol Seger, in the Department of Psychology at Colorado State University.\nOur lab uses fMRI and cognitive psychology methods to investigate a variety of questions about human learning and cognition.\nOur core research examines how interactions between basal ganglia and cortex in corticostriatal “loops” contribute to category learning. We also collaborate on a variety of projects in areas as diverse as risk taking in adolescence, recognition memory, musical harmony and rhythm processing, and neuroeconomics.\nWe are currently accepting undergraduate research assistants! Check the Prospective Students page for more information."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
+    "section": "",
+    "text": "One of our primary research areas is characterizing the cognitive and neural systems that underlie learning of new categories and concepts. In addition to examining how corticostriatal networks are involved in category learning (more information below), we are also interested in how categories and concepts are represented in cortex, and how frontoparietal networks are dynamically recruited to support learning and form new knowledge schemas. We combine cognitive experiments with advanced functional MRI analysis techniques including Representational Similarity Analysis, MVPA, and functional connectivity methods. Much of our research in this area is in collaboration with Professor Zhiya “Michael” Liu and his students at South China Normal University."
+  },
+  {
+    "objectID": "about.html#category-learning-and-mental-representation",
+    "href": "about.html#category-learning-and-mental-representation",
+    "title": "Research",
+    "section": "",
+    "text": "One of our primary research areas is characterizing the cognitive and neural systems that underlie learning of new categories and concepts. In addition to examining how corticostriatal networks are involved in category learning (more information below), we are also interested in how categories and concepts are represented in cortex, and how frontoparietal networks are dynamically recruited to support learning and form new knowledge schemas. We combine cognitive experiments with advanced functional MRI analysis techniques including Representational Similarity Analysis, MVPA, and functional connectivity methods. Much of our research in this area is in collaboration with Professor Zhiya “Michael” Liu and his students at South China Normal University."
+  },
+  {
+    "objectID": "about.html#the-corticostriatal-system",
+    "href": "about.html#the-corticostriatal-system",
+    "title": "Research",
+    "section": "The Corticostriatal System",
+    "text": "The Corticostriatal System\nOur core systems neuroscience research examines how interactions between basal ganglia and cortex in corticostriatal “loops” underlie many fundamental aspects of human learning. Much of our research focuses on category learning, which we believe serves as an excellent model system for learning processes generally. We find that different loops make different contributions to category learning. The visual loop helps to process the visual stimulus and map it to the correct category. The motor loop helps to select the correct motor response (e.g., pressing a key on a computer keyboard) to indicate the category. The motivational loop processes the feedback reward associated with categorizing correctly or incorrectly, including calculating a reward prediction error. Finally the executive loop helps to chose the correct strategy for categorization, and works with the motivational loop to process reward and feedback, including predicting the expected feedback or reward associated with each categorization trial.\nOur approach to Cognitive Neuroscience is integrative. When studying the corticostriatal system, our goal is to understand its function by combining information from the fields of anatomy, neurophysiology, computational neuroscience, behavior, and cognition. Although our empirical work studies humans we believe it is important to understand the functions of the basal ganglia across species. We also study how the corticostriatal system interacts with other neural systems, such as the hippocampus."
+  },
+  {
+    "objectID": "about.html#translational-and-clinical-research",
+    "href": "about.html#translational-and-clinical-research",
+    "title": "Research",
+    "section": "Translational and Clinical Research",
+    "text": "Translational and Clinical Research\nWe also have many collaborations through which we examine disorders that affect basal ganglia function.\nWe study Obsessive-Compulsive Disorder in collaboration with Professor Qi Chen (computational neuroscientist) and Ziwen Peng (Psychiatrist) at South China Normal University. See Publications for a list of our most recent research.\nWe are beginning collaborative research projects on the role of the tail of the caudate in reward processing in individuals with Substance Use Disorders in collaboration with colleagues at Colorado State University in the Certified Addictions Counseling program.\nPast collaborations have examined corticostriatal function in Parkinson disease as well."
+  },
+  {
+    "objectID": "about.html#international-collaboration-in-china",
+    "href": "about.html#international-collaboration-in-china",
+    "title": "Research",
+    "section": "International Collaboration In China",
+    "text": "International Collaboration In China\nOur lab has extensive collaborations with the School of Psychology, South China Normal University, Guangzhou, China.\n\nCarol Seger holds a Chiang Jiang (Yangtze River) Scholar Chair Professorship at South China Normal (2015-2017). She has completed two sabbaticals in China (2014 and 2022) and visits China for 1-2 months each year to work there and collaborate with faculty and students.\nIn 2015, CSU and SCNU signed an agreement to established the SCNU-CSU Joint International Laboratory for the Study of Mind and Brain. The picture above shows the CSU delegation along with SCNU administrators at the unveiling of the commemorative plaque."
+  }
+]
